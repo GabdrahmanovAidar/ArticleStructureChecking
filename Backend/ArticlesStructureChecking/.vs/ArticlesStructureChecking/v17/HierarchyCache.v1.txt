@@ -1,0 +1,512 @@
+﻿++Решение "ArticlesStructureChecking" ‎(проекты: 7 из 7)
+i:{00000000-0000-0000-0000-000000000000}:ArticlesStructureChecking.sln
+++Infrastrusture
+i:{00000000-0000-0000-0000-000000000000}:Infrastrusture
+++ArticlesStructureChecking.Infrastructure.DataAccess
+i:{6b0808a1-2d4a-4166-971d-19022d70ff11}:ArticlesStructureChecking.Infrastructure.DataAccess
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\articlesstructurechecking.infrastructure.dataaccess.csproj
+++Зависимости
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:>270
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:>272
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:>599
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:>390
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:>271
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:>327
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>499
+++Configurations
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\configurations\
+++ArticlesStructureCheckingDbContext.cs
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\articlesstructurecheckingdbcontext.cs
+++Анализаторы
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:анализаторы
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:анализаторы
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:анализаторы
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:анализаторы
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:анализаторы
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:анализаторы
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:анализаторы
+++Пакеты
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:пакеты
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:пакеты
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:пакеты
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:пакеты
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:пакеты
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:пакеты
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:пакеты
+++Платформы
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:платформы
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:платформы
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:платформы
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:платформы
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:платформы
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:платформы
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:платформы
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:c:\users\айдар\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\users\айдар\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:c:\users\айдар\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:c:\users\айдар\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:c:\users\айдар\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:c:\users\айдар\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:c:\users\айдар\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:>565
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:>731
+++Microsoft.NETCore.App
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\microsoft.netcore.app
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.core\microsoft.netcore.app
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\microsoft.netcore.app
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\microsoft.netcore.app
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\microsoft.netcore.app
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.exceptions\microsoft.netcore.app
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\microsoft.netcore.app
+++Application
+i:{00000000-0000-0000-0000-000000000000}:Application
+++ArticlesStructureChecking.Application.Core
+i:{db2076a8-744d-4d36-855d-bbdf73dbcee2}:ArticlesStructureChecking.Application.Core
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.core\articlesstructurechecking.application.core.csproj
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.core\articlesstructurechecking.application.core.csproj
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.core\articlesstructurechecking.application.core.csproj
+++Interfaces
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.core\interfaces\
+++Сборки
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:сборки
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:сборки
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:сборки
+++OpenIddict.Abstractions (3.1.1)
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:>543
+++Serilog (2.11.0)
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:>545
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:>548
+++OneOf
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.core\oneof
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\oneof
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\oneof
+++Features
+i:{db2076a8-744d-4d36-855d-bbdf73dbcee2}:Features
+++ArticlesStructureChecking.Application.Article
+i:{5f62283d-19f5-4183-aa99-f0cfb3c2b9a0}:ArticlesStructureChecking.Application.Article
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\articlesstructurechecking.application.article.csproj
+++CheckArticleReview
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\checkarticlereview\
+++CheckArticleReviewCommand.cs
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\checkarticlereview\checkarticlereviewcommand.cs
+++CheckArticleReviewCommandHandler.cs
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\checkarticlereview\checkarticlereviewcommandhandler.cs
+++CheckArticleReviewResponse.cs
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\checkarticlereview\checkarticlereviewresponse.cs
+++CreateArticle
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\createarticle\
+++CreateArticleCommand.cs
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\createarticle\createarticlecommand.cs
+++CreateArticleCommandHandler.cs
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\createarticle\createarticlecommandhandler.cs
+++CreateArticleReview
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\createarticlereview\
+++MediatR (10.0.1)
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:>658
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>657
+++Microsoft.AspNetCore.Http.Features (5.0.17)
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:>659
+++Microsoft.Office.Interop.Word (15.0.4797.1003)
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:>645
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:>751
+++ArticlesStructureChecking.Application.Token
+i:{5f62283d-19f5-4183-aa99-f0cfb3c2b9a0}:ArticlesStructureChecking.Application.Token
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\articlesstructurechecking.application.token.csproj
+++AcessToken
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\acesstoken\
+++ClientCredentialsToken
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\clientcredentialstoken\
+++Oidc
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\oidc\
+++OidcClaimsPrincipalProvider.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\oidc\oidcclaimsprincipalprovider.cs
+++OidcConfiguration.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\oidc\oidcconfiguration.cs
+++RefreshToken
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\refreshtoken\
+++ITokenHandler.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\itokenhandler.cs
+++Проекты
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:проекты
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:проекты
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:проекты
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:проекты
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:проекты
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:проекты
+++AccessTokenHandler.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\acesstoken\accesstokenhandler.cs
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:>546
+++ArticlesStructureChecking.Domain
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\articlesstructurechecking.domain.csproj
+i:{ff3525b2-99cb-4ade-a7fc-5e7dc2d3f31b}:ArticlesStructureChecking.Domain
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\bin\debug\net6.0\articlesstructurechecking.domain.dll
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\bin\debug\net6.0\articlesstructurechecking.domain.dll
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+++Entities
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\entities\
+++Article
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\entities\article\
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\configurations\article\
+++Article.cs
+++ArticleReview.cs
+++User
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\entities\user\
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\configurations\user\
+++Enums
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\enums\
+++EArticleStatus.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\enums\earticlestatus.cs
+++EUserStatus.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\enums\euserstatus.cs
+++User.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\entities\user\user.cs
+++Microsoft.Extensions.Identity.Stores (6.0.5)
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:>540
+++ArticlesStructureChecking.Exceptions
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.exceptions\articlesstructurechecking.exceptions.csproj
+i:{ff3525b2-99cb-4ade-a7fc-5e7dc2d3f31b}:ArticlesStructureChecking.Exceptions
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.exceptions\articlesstructurechecking.exceptions.csproj
+++BadRequestException.cs
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.exceptions\badrequestexception.cs
+++ErrorMessage.cs
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.exceptions\errormessage.cs
+++ExceptionBase.cs
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.exceptions\exceptionbase.cs
+++NotFoundException.cs
+i:{8fbee3c1-7242-4471-b571-08a5760392de}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.exceptions\notfoundexception.cs
+++Web
+i:{00000000-0000-0000-0000-000000000000}:Web
+++ArticlesStructureChecking
+i:{05a491d3-0861-4f5a-addc-bc79308041e8}:ArticlesStructureChecking
+++Connected Services 
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>500
+++Properties
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\properties\
+++wwwroot
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\
+++Controllers
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\controllers\
+++TokenController.cs
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\controllers\tokencontroller.cs
+++Initializers
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\initializers\
+++OidcInitializer.cs
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\initializers\oidcinitializer.cs
+++appsettings.json
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\appsettings.json
+++Program.cs
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\program.cs
+++Startup.cs
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\startup.cs
+++Зависимости службы не обнаружены
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>501
+++launchSettings.json
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\properties\launchsettings.json
+++css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\css\
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\js\
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\
+++favicon.ico
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\favicon.ico
+++appsettings.Development.json
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\appsettings.development.json
+++site.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\css\site.css
+++site.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\js\site.js
+++bootstrap
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\
+++jquery
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery\
+++jquery-validation
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation-unobtrusive\
+++Microsoft.AspNetCore.Analyzers
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++OpenIddict.Server.AspNetCore (3.1.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>542
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:>709
+++Microsoft.AspNetCore.App
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\microsoft.aspnetcore.app
+++dist
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery\dist\
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery\license.txt
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Extensions.Hosting.AsyncInitialization (1.0.0)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>684
+++Npgsql.EntityFrameworkCore.PostgreSQL (6.0.4)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>687
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:>1141
+++Role.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\entities\user\role.cs
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.5)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>690
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:>1138
+++OpenIddict.Core (3.1.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>691
+++OpenIddict.EntityFrameworkCore (3.1.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>692
+++Новая папка
+++OpenIddict
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\openiddict\
+++OpenIddictApplication.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\openiddict\openiddictapplication.cs
+++OpenIddict.EntityFrameworkCore.Models (3.1.1)
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:>698
+++OpenIddictAuthorization.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\openiddict\openiddictauthorization.cs
+++OpenIddictToken.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\openiddict\openiddicttoken.cs
+++OpenIddictScope.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\openiddict\openiddictscope.cs
+++ArticleStructureCheckingAccessTokenHandler.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\acesstoken\articlestructurecheckingaccesstokenhandler.cs
+++RefreshTokenHandler.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\refreshtoken\refreshtokenhandler.cs
+++Extensions.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\refreshtoken\extensions.cs
+++ClientCredentialsHandler.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\clientcredentialstoken\clientcredentialshandler.cs
+++OpenIddict.Validation (3.1.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>716
+++libman.json
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\libman.json
+++OpenIddict.Validation.ServerIntegration (3.1.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>719
+++OpenIddict.Validation.AspNetCore (3.1.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>720
+++PasswordHasher.cs
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\passwordhasher.cs
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>723
+++Swashbuckle.AspNetCore.Swagger (6.3.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>724
+++Swashbuckle.AspNetCore.SwaggerUI (6.3.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>725
+++Serilog.AspNetCore (5.0.0)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>726
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.5)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>727
+++Swashbuckle.AspNetCore.SwaggerGen (6.3.1)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>728
+++ArticleEntity.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\entities\article\articleentity.cs
+++ArticleReviewEntity.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\entities\article\articlereviewentity.cs
+++Base
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\base\
+++EntityBase.cs
+i:{47a5cbf4-fcee-482f-8c5b-ed5308799d6a}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.domain\base\entitybase.cs
+++CreateArticleReviewCommand.cs
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\createarticlereview\createarticlereviewcommand.cs
+++CreateArticleReviewCommandHandler.cs
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.article\createarticlereview\createarticlereviewcommandhandler.cs
+++Microsoft.Extensions.Hosting.Abstractions (6.0.0)
+i:{14af7b17-9cba-47de-b3d6-58c3043c80a8}:>745
+++Services
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.core\services\
+++IReadDocText.cs
+++IReadDocTextService.cs
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.core\interfaces\ireaddoctextservice.cs
+++ReadDocTextService.cs
+i:{d10b7614-5c88-4cef-a764-22f4fe44ff02}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.core\services\readdoctextservice.cs
+++ArticleController.cs
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\controllers\articlecontroller.cs
+++ArticleReviewController.cs
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\controllers\articlereviewcontroller.cs
+++ArticleStructureCheckingControllerBase.cs
+++ZamZamOidcConfiguration.cs
+++ZamZamOidcConfiguration.Client.cs
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\initializers\zamzamoidcconfiguration.client.cs
+++ZamZamOidcConfiguration.Scope.cs
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking\initializers\zamzamoidcconfiguration.scope.cs
+++OidcConfiguration.Client.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\oidc\oidcconfiguration.client.cs
+++OidcConfiguration.Scope.cs
+i:{8e7649fe-9169-43fb-b90e-288ba62da680}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.application.token\oidc\oidcconfiguration.scope.cs
+++Microsoft.EntityFrameworkCore.Design (6.0.5)
+i:{5c2b5e4a-65f9-4350-9742-cdb5c9f20314}:>1129
+++Migrations
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\migrations\
+++20220519180722_Init.cs
+++ArticlesStructureCheckingDbContextModelSnapshot.cs
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\migrations\articlesstructurecheckingdbcontextmodelsnapshot.cs
+++20220519180722_Init.Designer.cs
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:>1139
+++Npgsql (6.0.4)
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:>1140
+++20220519180903_Init.cs
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\migrations\20220519180903_init.cs
+++20220519180903_Init.Designer.cs
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\migrations\20220519180903_init.designer.cs
+++ArticleReview
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\configurations\articlereview\
+++UserConfiguration.cs
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\configurations\user\userconfiguration.cs
+++ArticleConfiguration.cs
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\configurations\article\articleconfiguration.cs
+++ArticleReviewConfiguration.cs
+i:{fe5845fc-b0d0-4451-a52d-a70a4782d30f}:d:\рабочий стол\диплом\backend\articlesstructurechecking\articlesstructurechecking.infrastructure.dataaccess\configurations\articlereview\articlereviewconfiguration.cs

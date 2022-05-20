@@ -1,0 +1,12 @@
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.deps.json
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\bin\Debug\net6.0\ref\ArticlesStructureChecking.Exceptions.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.pdb
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\obj\Debug\net6.0\ArticlesStructureChecking.Exceptions.csproj.AssemblyReference.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\obj\Debug\net6.0\ArticlesStructureChecking.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\obj\Debug\net6.0\ArticlesStructureChecking.Exceptions.AssemblyInfoInputs.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\obj\Debug\net6.0\ArticlesStructureChecking.Exceptions.AssemblyInfo.cs
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\obj\Debug\net6.0\ArticlesStructureChecking.Exceptions.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\obj\Debug\net6.0\ArticlesStructureChecking.Exceptions.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\obj\Debug\net6.0\ref\ArticlesStructureChecking.Exceptions.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Exceptions\obj\Debug\net6.0\ArticlesStructureChecking.Exceptions.pdb

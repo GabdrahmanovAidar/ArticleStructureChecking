@@ -1,0 +1,16 @@
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\bin\Debug\net6.0\ArticlesStructureChecking.Application.Core.deps.json
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\bin\Debug\net6.0\ArticlesStructureChecking.Application.Core.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\bin\Debug\net6.0\ref\ArticlesStructureChecking.Application.Core.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\bin\Debug\net6.0\ArticlesStructureChecking.Application.Core.pdb
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\bin\Debug\net6.0\OneOf.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.pdb
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.csproj.AssemblyReference.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.AssemblyInfoInputs.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.AssemblyInfo.cs
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.csproj.CopyComplete
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ref\ArticlesStructureChecking.Application.Core.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.pdb
