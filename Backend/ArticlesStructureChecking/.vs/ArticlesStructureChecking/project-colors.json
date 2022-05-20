@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c2b5e4a-65f9-4350-9742-cdb5c9f20314": {
+      "ProjectGuid": "5c2b5e4a-65f9-4350-9742-cdb5c9f20314",
+      "DisplayName": "ArticlesStructureChecking",
+      "ColorIndex": 0
+    },
+    "fe5845fc-b0d0-4451-a52d-a70a4782d30f": {
+      "ProjectGuid": "fe5845fc-b0d0-4451-a52d-a70a4782d30f",
+      "DisplayName": "ArticlesStructureChecking.Infrastructure.DataAccess",
+      "ColorIndex": 1
+    },
+    "47a5cbf4-fcee-482f-8c5b-ed5308799d6a": {
+      "ProjectGuid": "47a5cbf4-fcee-482f-8c5b-ed5308799d6a",
+      "DisplayName": "ArticlesStructureChecking.Domain",
+      "ColorIndex": 2
+    },
+    "8fbee3c1-7242-4471-b571-08a5760392de": {
+      "ProjectGuid": "8fbee3c1-7242-4471-b571-08a5760392de",
+      "DisplayName": "ArticlesStructureChecking.Exceptions",
+      "ColorIndex": 3
+    },
+    "d10b7614-5c88-4cef-a764-22f4fe44ff02": {
+      "ProjectGuid": "d10b7614-5c88-4cef-a764-22f4fe44ff02",
+      "DisplayName": "ArticlesStructureChecking.Application.Core",
+      "ColorIndex": 4
+    },
+    "8e7649fe-9169-43fb-b90e-288ba62da680": {
+      "ProjectGuid": "8e7649fe-9169-43fb-b90e-288ba62da680",
+      "DisplayName": "ArticlesStructureChecking.Application.Token",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "14af7b17-9cba-47de-b3d6-58c3043c80a8": {
+      "ProjectGuid": "14af7b17-9cba-47de-b3d6-58c3043c80a8",
+      "DisplayName": "ArticlesStructureChecking.Application.Article",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

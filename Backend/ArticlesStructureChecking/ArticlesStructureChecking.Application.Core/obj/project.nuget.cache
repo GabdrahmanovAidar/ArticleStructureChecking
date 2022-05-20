@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "btZZSdWTuSr9nCh0RgEVNcxpCZ/0YowVzSs/+UzDNuIwz7po4IClIkyYIkojxWhdMGjR9TeLgvxSqmCvaJyIig==",
+  "success": true,
+  "projectFilePath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.16\\microsoft.extensions.dependencyinjection.abstractions.3.1.16.nupkg.sha512",
+    "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.16\\microsoft.extensions.primitives.3.1.16.nupkg.sha512",
+    "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1003\\microsoft.office.interop.word.15.0.4797.1003.nupkg.sha512",
+    "C:\\Users\\Айдар\\.nuget\\packages\\openiddict.abstractions\\3.1.1\\openiddict.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\Айдар\\.nuget\\packages\\serilog\\2.11.0\\serilog.2.11.0.nupkg.sha512",
+    "C:\\Users\\Айдар\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\Айдар\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Айдар\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Айдар\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Microsoft.Office.Interop.Word 15.0.4797.1003\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Microsoft.Office.Interop.Word",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

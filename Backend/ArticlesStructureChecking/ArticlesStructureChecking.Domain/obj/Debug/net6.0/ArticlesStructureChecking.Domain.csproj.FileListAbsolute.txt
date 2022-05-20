@@ -1,0 +1,15 @@
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\bin\Debug\net6.0\ArticlesStructureChecking.Domain.deps.json
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\bin\Debug\net6.0\ArticlesStructureChecking.Domain.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\bin\Debug\net6.0\ref\ArticlesStructureChecking.Domain.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\bin\Debug\net6.0\ArticlesStructureChecking.Domain.pdb
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.pdb
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\obj\Debug\net6.0\ArticlesStructureChecking.Domain.csproj.AssemblyReference.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\obj\Debug\net6.0\ArticlesStructureChecking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\obj\Debug\net6.0\ArticlesStructureChecking.Domain.AssemblyInfoInputs.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\obj\Debug\net6.0\ArticlesStructureChecking.Domain.AssemblyInfo.cs
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\obj\Debug\net6.0\ArticlesStructureChecking.Domain.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\obj\Debug\net6.0\ArticlesStructureChecking.Domain.csproj.CopyComplete
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\obj\Debug\net6.0\ArticlesStructureChecking.Domain.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\obj\Debug\net6.0\ref\ArticlesStructureChecking.Domain.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Domain\obj\Debug\net6.0\ArticlesStructureChecking.Domain.pdb

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.5" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Office.Interop.Word" Version="15.0.4797.1003" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArticlesStructureChecking.Application.Core\ArticlesStructureChecking.Application.Core.csproj" />
+    <ProjectReference Include="..\ArticlesStructureChecking.Domain\ArticlesStructureChecking.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
