@@ -30,7 +30,6 @@ D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\Articl
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\Microsoft.Office.Interop.Word.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

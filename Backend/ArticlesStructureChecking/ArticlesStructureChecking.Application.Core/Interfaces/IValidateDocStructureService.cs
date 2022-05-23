@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ArticlesStructureChecking.Domain.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,8 +8,8 @@ using Word = Microsoft.Office.Interop.Word;
 
 namespace ArticlesStructureChecking.Application.Core.Interfaces
 {
-    public interface IReadDocTextService
+    public interface IValidateDocStructureService
     {
-        string GetMainText(Word.Document document);
+        List<Mistake> Validate(Word.Document document, string articleName);
     }
 }

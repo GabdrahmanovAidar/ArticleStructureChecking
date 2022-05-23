@@ -18,6 +18,6 @@ namespace ArticlesStructureChecking.Domain.Entities.Article
         public int ArticleId { get; set; }
         public virtual ArticleEntity Article { get; set; }
         public string FilePath { get; set; }
-        public List<string> Errors { get; set; }
+        public List<string>? Errors { get; set; }
     }
 }

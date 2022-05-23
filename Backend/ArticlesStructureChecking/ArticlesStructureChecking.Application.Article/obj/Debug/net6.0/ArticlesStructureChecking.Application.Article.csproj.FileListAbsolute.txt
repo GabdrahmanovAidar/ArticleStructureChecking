@@ -17,3 +17,7 @@ D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\Articl
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ref\ArticlesStructureChecking.Application.Article.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.pdb
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.csproj.ResolveComReference.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll

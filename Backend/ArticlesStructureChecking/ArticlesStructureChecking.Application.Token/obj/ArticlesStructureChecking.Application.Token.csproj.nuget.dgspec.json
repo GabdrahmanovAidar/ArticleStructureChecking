@@ -32,6 +32,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj": {
+                "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj"
+              },
               "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Exceptions\\ArticlesStructureChecking.Exceptions.csproj": {
                 "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Exceptions\\ArticlesStructureChecking.Exceptions.csproj"
               }
@@ -48,10 +51,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.Office.Interop.Word": {
-              "target": "Package",
-              "version": "[15.0.4797.1003, )"
-            },
             "OpenIddict.Abstractions": {
               "target": "Package",
               "version": "[3.1.1, )"

@@ -16,9 +16,9 @@ namespace ArticlesStructureChecking.Application.Article.CheckArticleReview
     public class CheckArticleReviewCommandHandler : IRequestHandler<CheckArticleReviewCommand, CheckArticleReviewResponse>
     {
         private readonly DbContext _db;
-        private readonly IReadDocTextService _readDocTextService;
+        private readonly IValidateDocStructureService _readDocTextService;
 
-        public CheckArticleReviewCommandHandler(DbContext db, IReadDocTextService readDocTextService)
+        public CheckArticleReviewCommandHandler(DbContext db, IValidateDocStructureService readDocTextService)
         {
             _db = db;
             _readDocTextService = readDocTextService;
@@ -26,7 +26,7 @@ namespace ArticlesStructureChecking.Application.Article.CheckArticleReview
 
         public async Task<CheckArticleReviewResponse> Handle(CheckArticleReviewCommand request, CancellationToken cancellationToken)
         {
-            var articleReview = await _db.Set<ArticleReviewEntity>().FirstOrDefaultAsync(x => x.Id == request.ArticleReviewId);
+            var articleReview = await _db.Set<ArticleReviewEntity>().Include(x=>x.Article).FirstOrDefaultAsync(x => x.Id == request.ArticleReviewId);
             if (articleReview == null)
                 throw new NotFoundException(@"Article review with id {} not found");
 
@@ -45,7 +45,7 @@ namespace ArticlesStructureChecking.Application.Article.CheckArticleReview
                                          ref MissingObj, ref MissingObj, ref MissingObj, ref MissingObj,
                                          ref MissingObj, ref MissingObj, ref MissingObj, ref MissingObj);
 
-                var mainText = _readDocTextService.GetMainText(doc);
+                var mistakes = _readDocTextService.Validate(doc, articleReview.Article.Name);
             }
             catch
             {

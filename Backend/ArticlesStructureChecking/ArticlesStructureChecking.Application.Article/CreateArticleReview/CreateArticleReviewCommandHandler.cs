@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace ArticlesStructureChecking.Application.Article.CreateArticleReview
@@ -26,9 +27,10 @@ namespace ArticlesStructureChecking.Application.Article.CreateArticleReview
             if (command.File.Length == 0)
                 throw new BadRequestException("Empty file");
 
-            var filesPath = Path.Combine(_hostingEnvironment.ContentRootPath, "files");
+            var filesPath = Path.Combine(@"C:\ArticlesStructureCheckingFiles");
 
-            string filePath = Path.Combine(filesPath, DateTime.Now.ToString());
+            string filePath = Path.Combine(filesPath, DateTime.Now.ToString("dd.MM.yyyy/HH.mm.ss"));
+            filePath = filePath + ".docx";
             using (Stream fileStream = new FileStream(filePath, FileMode.Create))
             {
                 await command.File.CopyToAsync(fileStream);
@@ -36,6 +38,7 @@ namespace ArticlesStructureChecking.Application.Article.CreateArticleReview
 
             var articleReview = new ArticleReviewEntity(command.ArticleId, filePath);
             await _db.Set<ArticleReviewEntity>().AddAsync(articleReview);
+            await _db.SaveChangesAsync();
             return Unit.Value;
         }
     }

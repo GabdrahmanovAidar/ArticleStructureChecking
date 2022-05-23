@@ -14,3 +14,9 @@ D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\Articl
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ref\ArticlesStructureChecking.Application.Core.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.pdb
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\obj\Debug\net6.0\ArticlesStructureChecking.Application.Core.csproj.ResolveComReference.cache
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\bin\Debug\net6.0\ArticlesStructureChecking.Domain.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Core\bin\Debug\net6.0\ArticlesStructureChecking.Domain.pdb

@@ -473,15 +473,6 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "Microsoft.Office.Interop.Word/15.0.4797.1003": {
-        "type": "package",
-        "compile": {
-          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
-        },
-        "runtime": {
-          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
-        }
-      },
       "Microsoft.Win32.Registry/4.5.0": {
         "type": "package",
         "dependencies": {
@@ -744,8 +735,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "ArticlesStructureChecking.Domain": "1.0.0",
           "ArticlesStructureChecking.Exceptions": "1.0.0",
-          "Microsoft.Office.Interop.Word": "15.0.4797.1003",
           "OpenIddict.Abstractions": "3.1.1",
           "Serilog": "2.11.0"
         },
@@ -1451,18 +1442,6 @@
         "runtime.json",
         "useSharedDesignerContext.txt",
         "version.txt"
-      ]
-    },
-    "Microsoft.Office.Interop.Word/15.0.4797.1003": {
-      "sha512": "p22pljmHaQjDxNLqO+uO5vi3y0TK5t1mAtSAg93K28/e12Hw3qzfflAo6XHvNXxnvz9HZGv59vLCwIaC9xbXNQ==",
-      "type": "package",
-      "path": "microsoft.office.interop.word/15.0.4797.1003",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net20/Microsoft.Office.Interop.Word.dll",
-        "microsoft.office.interop.word.15.0.4797.1003.nupkg.sha512",
-        "microsoft.office.interop.word.nuspec"
       ]
     },
     "Microsoft.Win32.Registry/4.5.0": {
@@ -2178,17 +2157,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Пакет \"Microsoft.Office.Interop.Word 15.0.4797.1003\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
-      "libraryId": "Microsoft.Office.Interop.Word",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

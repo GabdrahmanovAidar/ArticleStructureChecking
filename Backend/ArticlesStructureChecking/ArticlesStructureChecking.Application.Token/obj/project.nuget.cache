@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "peWIwJ09kSmJXAS2xl3JL/CPaiH7LMSdYxUxahznpzaoF6lVTinUgTTFlaLpj137WuuhRO03/8kwBQlgq20p9w==",
+  "dgSpecHash": "77RJb52n/wYMXoOAdb3IpgrlOEPsZbh5Kq62N2YTFqW61rxuE6N+l8mzfwgJI1JC6PB9rowKsU0eICNat95CTA==",
   "success": true,
   "projectFilePath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj",
   "expectedPackageFiles": [
@@ -40,7 +40,6 @@
     "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.11.1\\microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1003\\microsoft.office.interop.word.15.0.4797.1003.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\openiddict.abstractions\\3.1.1\\openiddict.abstractions.3.1.1.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\openiddict.entityframeworkcore.models\\3.1.1\\openiddict.entityframeworkcore.models.3.1.1.nupkg.sha512",
@@ -61,16 +60,5 @@
     "C:\\Users\\Айдар\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Пакет \"Microsoft.Office.Interop.Word 15.0.4797.1003\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
-      "libraryId": "Microsoft.Office.Interop.Word",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
