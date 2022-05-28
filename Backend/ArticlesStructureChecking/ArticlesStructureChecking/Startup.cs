@@ -137,6 +137,22 @@ namespace ArticlesStructureChecking
             serviceCollection.AddMediatR(types);
         }
 
+        public static void AddAutoMapper(this IServiceCollection services)
+        {
+            var autoMapperAssemblies = AppDomain.CurrentDomain.GetAssemblies()
+                .Where(x => x.FullName != null
+                            && !x.FullName.Contains("Microsoft")
+                            && !x.FullName.Contains("System")
+                            && x.FullName.Contains("ArticlesStructureChecking")
+                            && !x.FullName.Contains("AutoMapper"))
+                .SelectMany(x => x.GetTypes())
+                .Where(x => !x.IsInterface)
+                .Where(type => typeof(AutoMapper.Profile).IsAssignableFrom(type))
+                .ToArray();
+
+            services.AddAutoMapper(autoMapperAssemblies);
+        }
+
         private static void LoadAssemblies()
         {
             var loadedAssemblies = AppDomain.CurrentDomain.GetAssemblies()

@@ -12,6 +12,7 @@ builder.Services.ConfigureDbContext(builder.Configuration);
 builder.Services.ConfigureOidc(builder.Configuration);
 builder.Services.ConfigureInitializers(builder.Configuration);
 builder.Services.ConfigureAuthentication();
+builder.Services.AddAutoMapper();
 builder.Services.AddMediatR();
 
 builder.Services.AddControllers(options => options.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true)

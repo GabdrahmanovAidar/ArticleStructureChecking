@@ -1,0 +1,15 @@
+.card-doc {
+    text-align: center;
+    background-color:azure;
+    border: black solid 1px;
+    width: 400px;
+}
+
+.card-details-doc {
+    height:450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:55%;
+    /* background-image: url('../../../assets/images/other-images/plus.png'); */
+
+}

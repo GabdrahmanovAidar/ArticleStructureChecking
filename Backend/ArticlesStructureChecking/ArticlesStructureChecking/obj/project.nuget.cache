@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "P14ueY8kDDBvkeBXCEdS/XYqa2xKIzeJDiA+ByhutyqR4acveljJsas+bytU9ftm6/N85Y323TMVXaM1hfMb+Q==",
+  "dgSpecHash": "dAPlQkV+i0kR1XJULNJ5AnQ8znkgGoJt5nsdUbezPGLGsyHWlBULj9aW88DC3IuKbRt04FUbsWQXLbWaPurKkw==",
   "success": true,
   "projectFilePath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking\\ArticlesStructureChecking.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Айдар\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Айдар\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\extensions.hosting.asyncinitialization\\1.0.0\\extensions.hosting.asyncinitialization.1.0.0.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

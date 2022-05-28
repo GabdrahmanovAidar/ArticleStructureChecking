@@ -89,3 +89,5 @@ D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\Articl
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\obj\Debug\net6.0\ArticlesStructureChecking.genruntimeconfig.cache
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\Humanizer.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\AutoMapper.dll
+D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
