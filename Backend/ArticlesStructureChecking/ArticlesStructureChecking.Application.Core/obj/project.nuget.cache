@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lLN8wrBJpuQV3th2kf52EbWORWod7NQMEsUYyX6cxcqcBVdmw4SIT1w0ZXmGJGxcw9OhVUW4djdt12tR4v57Xg==",
+  "dgSpecHash": "pcC5AA54Ck2m4WMiD7wttrgWgvJcEGUMykCok5PgZ2CY/oIVPYJlSdoO9vbJ2GUN0WmvPLBjM9l/7kzQTzOMeQ==",
   "success": true,
-  "projectFilePath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj",
+  "projectFilePath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.5\\microsoft.aspnetcore.cryptography.keyderivation.6.0.5.nupkg.sha512",

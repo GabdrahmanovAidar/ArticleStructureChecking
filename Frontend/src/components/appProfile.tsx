@@ -9,7 +9,7 @@ import {useHistory} from 'react-router-dom';
 import Header from "./header/header";
 import {AlignLeft, LogOut} from "react-feather";
 import {Link} from "react-router-dom";
-import {ReactComponent as Logo} from "../assets/images/logo/logo-zamzam.svg";
+import {ReactComponent as Logo} from "../assets/images/logo/logo.svg";
 import axios from "axios";
 
 const AppProfile = (props: any) => {

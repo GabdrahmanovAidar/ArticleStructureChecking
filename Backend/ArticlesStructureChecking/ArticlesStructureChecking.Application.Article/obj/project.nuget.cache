@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9U5/Ew7u/DQrWwDeD7IGgesyMtlLwrMG5L5MRGWJM5mX+lA5i6CIV8MjtRfNYJG8Fpmcj5Z/c8PzvnuQtiyIzQ==",
+  "dgSpecHash": "TfCIF8hyhsCcm1Hjd+yT50lAsyWOmsw7+oHBK1CGjxfPPIA8538BRFrYoW9MxfnHACOICUbUuFiqkRMnJCzqQA==",
   "success": true,
-  "projectFilePath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Article\\ArticlesStructureChecking.Application.Article.csproj",
+  "projectFilePath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Article\\ArticlesStructureChecking.Application.Article.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Айдар\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

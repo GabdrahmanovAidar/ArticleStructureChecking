@@ -2086,11 +2086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj",
+      "projectUniqueName": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj",
       "projectName": "ArticlesStructureChecking.Application.Token",
-      "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj",
+      "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj",
       "packagesPath": "C:\\Users\\Айдар\\.nuget\\packages\\",
-      "outputPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\obj\\",
+      "outputPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2111,11 +2111,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj": {
-              "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj"
+            "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj": {
+              "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj"
             },
-            "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj": {
-              "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj"
+            "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj": {
+              "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj"
             }
           }
         }

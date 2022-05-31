@@ -16,7 +16,8 @@ namespace ArticlesStructureChecking.Application.Article
         {
             CreateMap<ArticleEntity, GetArticlesResponse>();
 
-            CreateMap<ArticleReviewEntity, GetArticleReviewsByArticleIdResponse>();
+            CreateMap<ArticleReviewEntity, GetArticleReviewsByArticleIdResponse>()
+                .ForMember(dest => dest.CreatedAt, opt=>opt.MapFrom(x=>x.CreatedAt.ToString("f")));
         }
     }
 }

@@ -37,21 +37,21 @@ namespace ArticlesStructureChecking.Application.Core.Services
                 mistakes.Add(new Mistake(MistakeTextConstants.NameTextSizeErr));
         }
 
-        public void ValidateAuthorsInformation(ref List<Mistake> mistakes, Paragraph paragraph)
+        public void ValidateAuthorsInformation(ref List<Mistake> mistakes, List<Paragraph> paragraphs)
         {
-            throw new NotImplementedException();
+            return;
         }
 
         public void ValidateAuthorsName(ref List<Mistake> mistakes, Paragraph paragraph)
         {
-            throw new NotImplementedException();
+            return;
         }
 
         public void ValidateBibliography(ref List<Mistake> mistakes, Paragraph paragraph)
         {
             if (paragraph.Range.Font.Name != "Calibri")
                 mistakes.Add(new Mistake(MistakeTextConstants.BibliographyFontErr));
-            if (paragraph.Range.Font.Italic == 0)
+            if (paragraph.Range.Font.Italic != 0)
                 mistakes.Add(new Mistake(MistakeTextConstants.BibliographyItalicErr));
             if (paragraph.Range.Font.Size != 14)
                 mistakes.Add(new Mistake(MistakeTextConstants.BibliographyTextSizeErr));
@@ -98,7 +98,7 @@ namespace ArticlesStructureChecking.Application.Core.Services
 
         public void ValidateMainPart(ref List<Mistake> mistakes, List<Paragraph> paragraphs)
         {
-            throw new NotImplementedException();
+            return;
         }
     }
 }

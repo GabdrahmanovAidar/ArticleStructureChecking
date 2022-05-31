@@ -17,3 +17,22 @@ D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\Articl
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Domain.pdb
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.pdb
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.csproj.CopyComplete
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.deps.json
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.runtimeconfig.json
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ref\ArticlesStructureChecking.Infrastructure.DataAccess.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.pdb
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Domain.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Domain.pdb
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.pdb
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.AssemblyInfo.cs
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.csproj.CopyComplete
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ref\ArticlesStructureChecking.Infrastructure.DataAccess.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.pdb
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Infrastructure.DataAccess\obj\Debug\net6.0\ArticlesStructureChecking.Infrastructure.DataAccess.genruntimeconfig.cache

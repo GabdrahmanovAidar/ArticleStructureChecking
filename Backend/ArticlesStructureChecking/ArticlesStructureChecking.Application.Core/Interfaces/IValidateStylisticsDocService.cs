@@ -12,7 +12,7 @@ namespace ArticlesStructureChecking.Application.Core.Interfaces
     {
         void ValidateArticleName(ref List<Mistake> mistakes, Word.Paragraph paragraph);
         void ValidateAuthorsName(ref List<Mistake> mistakes, Word.Paragraph paragraph);
-        void ValidateAuthorsInformation(ref List<Mistake> mistakes, Word.Paragraph paragraph);
+        void ValidateAuthorsInformation(ref List<Mistake> mistakes, List<Word.Paragraph> paragraph);
         void ValidateAnnotation(ref List<Mistake> mistakes, Word.Paragraph header, Word.Paragraph text);
         void ValidateKeyWord(ref List<Mistake> mistakes, Word.Paragraph paragraph);
         void ValidateMainPart(ref List<Mistake> mistakes, List<Word.Paragraph> paragraphs);

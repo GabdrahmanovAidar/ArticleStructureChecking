@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Word = Microsoft.Office.Interop.Word;
 
@@ -67,9 +68,46 @@ namespace ArticlesStructureChecking.Application.Core.Services
         }
         private void AuthorsCheck(Paragraphs paragraphs)
         {
+            var isAthorsExist = false;
+            var isAuthorsInformationExist = false;
+            var isAuthorsFioExist = false;
+            var isAuthorsMailExist = false;
+            var fioRegex = new Regex(@"[А-Я]\.+");
+            var mailRegex = new Regex(@"^((\w[^\W]+)[\.\-]?){1,}\@(([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$");
+            var authorsInformationParagraphs = new List<Paragraph>();
+            Paragraph authorsParagraph = null;
             foreach (Word.Paragraph paragraph in paragraphs)
             {
-
+                string text = (paragraph.Range == null || paragraph.Range.Text == null) ? null : paragraph.Range.Text;
+                if (text != null && fioRegex.IsMatch(text))
+                {
+                    isAthorsExist = true;
+                    authorsParagraph = paragraph;
+                    _validateService.ValidateAuthorsName(ref mistakes, paragraph);
+                }
+                if (text != null && mailRegex.IsMatch(text))
+                {
+                    isAuthorsMailExist = true;
+                }
+            }
+            if (!isAthorsExist || !isAuthorsMailExist)
+            {
+                if(!isAthorsExist)
+                    mistakes.Add(new Mistake(MistakeTextConstants.AuthorsNotExist));
+                if(!isAuthorsInformationExist)
+                    mistakes.Add(new Mistake(MistakeTextConstants.AuthorsInformationNotExist));
+            }
+            else
+            {
+                authorsInformationParagraphs.Add(authorsParagraph.Next());
+                do
+                {
+                    authorsInformationParagraphs.Add(authorsInformationParagraphs.Last().Next());
+                } while (!mailRegex.IsMatch(authorsInformationParagraphs.Last().Range.Text) || authorsInformationParagraphs.Count > 3);
+                if (mailRegex.IsMatch(authorsInformationParagraphs.Last().Range.Text))
+                    _validateService.ValidateAuthorsInformation(ref mistakes, authorsInformationParagraphs);
+                else
+                    mistakes.Add(new Mistake(MistakeTextConstants.AuthorsInformationNotExist));
             }
         }
         private void AnnotationCheck(Paragraphs paragraphs)
@@ -130,7 +168,7 @@ namespace ArticlesStructureChecking.Application.Core.Services
             if (isConclusionExist && isIntroductionExist && introductionParagraph != null)
             {
                 mainParagraphs.Add(introductionParagraph.Next());
-                while (mainParagraphs.Last().Next().Range.Text.Contains("ЗАКЛЮЧЕНИЕ"))
+                while (!mainParagraphs.Last().Next().Range.Text.Contains("ЗАКЛЮЧЕНИЕ"))
                     mainParagraphs.Add(mainParagraphs.Last().Next());
                 _validateService.ValidateMainPart(ref mistakes, mainParagraphs);
             }
@@ -141,7 +179,7 @@ namespace ArticlesStructureChecking.Application.Core.Services
             foreach (Word.Paragraph paragraph in paragraphs)
             {
                 string text = (paragraph.Range == null || paragraph.Range.Text == null) ? null : paragraph.Range.Text;
-                if (text != null && text.Contains("Ключевые слова"))
+                if (text != null && text.Contains("СПИСОК ЛИТЕРАТУРЫ"))
                 {
                     isBibliographyExist = true;
                     _validateService.ValidateBibliography(ref mistakes, paragraph);

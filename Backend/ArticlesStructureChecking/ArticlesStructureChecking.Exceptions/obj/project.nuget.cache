@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hwa0TmxUpqyqbd8i+md6GFZLQx1Eqd51QNHREPmRb1hVdT7f8erCQL8WFzY12xzZXVNeDAxTHrWH5sVewv8gVw==",
+  "dgSpecHash": "wfUSqwGQNsJHJdKjp/ZmYEJ2f7r3mxAIzVLkXmBqOAChpeZhfuDD6IwrG5Rubaz5y7/YX7Wkmsp5/vfdSbxW7A==",
   "success": true,
-  "projectFilePath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Exceptions\\ArticlesStructureChecking.Exceptions.csproj",
+  "projectFilePath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Exceptions\\ArticlesStructureChecking.Exceptions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Айдар\\.nuget\\packages\\serilog\\2.11.0\\serilog.2.11.0.nupkg.sha512"
   ],

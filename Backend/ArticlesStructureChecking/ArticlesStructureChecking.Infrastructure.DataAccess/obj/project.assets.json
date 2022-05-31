@@ -1000,11 +1000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\ArticlesStructureChecking.Infrastructure.DataAccess.csproj",
+      "projectUniqueName": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\ArticlesStructureChecking.Infrastructure.DataAccess.csproj",
       "projectName": "ArticlesStructureChecking.Infrastructure.DataAccess",
-      "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\ArticlesStructureChecking.Infrastructure.DataAccess.csproj",
+      "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\ArticlesStructureChecking.Infrastructure.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Айдар\\.nuget\\packages\\",
-      "outputPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\obj\\",
+      "outputPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1025,8 +1025,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj": {
-              "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj"
+            "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj": {
+              "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Domain\\ArticlesStructureChecking.Domain.csproj"
             }
           }
         }

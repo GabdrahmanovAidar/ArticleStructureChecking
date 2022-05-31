@@ -1,5 +1,5 @@
 import React from 'react';
-import { ReactComponent as LogoBig } from "../../assets/images/logo/logo-zamzam-big.svg";
+import logo from "../../assets/images/logo/logo.png";
 import { withRouter } from "react-router";
 import { Login, LOGIN, YourName, Password, RememberMe } from '../../constant';
 import { getToken, getTokenError } from "../../store/actions";
@@ -69,7 +69,7 @@ const Logins = ({ history }) => {
                             <div className="col-md-12">
                                 <div className="auth-innerright">
                                     <div className="authentication-box">
-                                        <div className="text-center"><LogoBig /></div>
+                                        <div className="text-center"><img src={logo} /></div>
                                         <div className="card mt-4">
                                             <div className="card-body">
                                                 <div className="text-center">

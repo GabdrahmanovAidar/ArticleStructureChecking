@@ -26,7 +26,7 @@ namespace ArticlesStructureChecking.Application.Article.CheckArticleReview
 
         public async Task<CheckArticleReviewResponse> Handle(CheckArticleReviewCommand request, CancellationToken cancellationToken)
         {
-            var articleReview = await _db.Set<ArticleReviewEntity>().Include(x=>x.Article).FirstOrDefaultAsync(x => x.Id == request.ArticleReviewId);
+            var articleReview = await _db.Set<ArticleReviewEntity>().Include(x => x.Article).FirstOrDefaultAsync(x => x.Id == request.ArticleReviewId);
             if (articleReview == null)
                 throw new NotFoundException(@"Article review with id {} not found");
 
@@ -46,6 +46,20 @@ namespace ArticlesStructureChecking.Application.Article.CheckArticleReview
                                          ref MissingObj, ref MissingObj, ref MissingObj, ref MissingObj);
 
                 var mistakes = _readDocTextService.Validate(doc, articleReview.Article.Name);
+                articleReview.Article.CheckCount++;
+                if (mistakes.Where(x => x.Type == Domain.Enums.EMistakeType.Error).Count() > 0)
+                {
+                    articleReview.Article.Status = Domain.Enums.EArticleStatus.Failed;
+                    articleReview.Status = Domain.Enums.EArticleStatus.Failed;
+                    articleReview.Errors = mistakes.Select(x => x.Text).ToList();
+                }
+                else
+                {
+                    articleReview.Article.Status = Domain.Enums.EArticleStatus.Success;
+                    articleReview.Status = Domain.Enums.EArticleStatus.Success;
+                    articleReview.Errors = mistakes.Select(x => x.Text).ToList();
+                }
+                _db.SaveChanges();
             }
             catch
             {

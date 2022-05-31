@@ -24,7 +24,7 @@ namespace ArticlesStructureChecking.Application.Article.CreateArticleReview
 
         public async Task<Unit> Handle(CreateArticleReviewCommand command, CancellationToken cancellationToken)
         {
-            if (command.File.Length == 0)
+            if (command.FormFile.Length == 0)
                 throw new BadRequestException("Empty file");
 
             var filesPath = Path.Combine(@"C:\ArticlesStructureCheckingFiles");
@@ -33,7 +33,7 @@ namespace ArticlesStructureChecking.Application.Article.CreateArticleReview
             filePath = filePath + ".docx";
             using (Stream fileStream = new FileStream(filePath, FileMode.Create))
             {
-                await command.File.CopyToAsync(fileStream);
+                await command.FormFile.CopyToAsync(fileStream);
             }
 
             var articleReview = new ArticleReviewEntity(command.ArticleId, filePath);

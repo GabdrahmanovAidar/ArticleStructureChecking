@@ -21,3 +21,26 @@ D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\Articl
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.csproj.ResolveComReference.cache
 D:\Рабочий стол\Диплом\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ArticlesStructureChecking.Application.Article.deps.json
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ArticlesStructureChecking.Application.Article.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ref\ArticlesStructureChecking.Application.Article.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ArticlesStructureChecking.Application.Article.pdb
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ArticlesStructureChecking.Application.Core.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ArticlesStructureChecking.Domain.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ArticlesStructureChecking.Application.Core.pdb
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ArticlesStructureChecking.Domain.pdb
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\bin\Debug\net6.0\ArticlesStructureChecking.Exceptions.pdb
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.csproj.AssemblyReference.cache
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.csproj.ResolveComReference.cache
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.AssemblyInfoInputs.cache
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.AssemblyInfo.cs
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.csproj.CoreCompileInputs.cache
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.csproj.CopyComplete
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ref\ArticlesStructureChecking.Application.Article.dll
+D:\Diplom\Backend\ArticlesStructureChecking\ArticlesStructureChecking.Application.Article\obj\Debug\net6.0\ArticlesStructureChecking.Application.Article.pdb

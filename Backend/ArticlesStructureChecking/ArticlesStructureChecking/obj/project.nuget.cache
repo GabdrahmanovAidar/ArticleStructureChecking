@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dAPlQkV+i0kR1XJULNJ5AnQ8znkgGoJt5nsdUbezPGLGsyHWlBULj9aW88DC3IuKbRt04FUbsWQXLbWaPurKkw==",
+  "dgSpecHash": "aPR9Jm8vL2yrv/UyM1aDKHIuI8jDSCN3KUycipR2/gsX35M7E8QThBHI9NN2sds4krnnAup419BWXQzN1ScrgQ==",
   "success": true,
-  "projectFilePath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking\\ArticlesStructureChecking.csproj",
+  "projectFilePath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking\\ArticlesStructureChecking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Айдар\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

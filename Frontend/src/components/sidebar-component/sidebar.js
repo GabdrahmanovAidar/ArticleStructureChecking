@@ -1,9 +1,8 @@
 import React, { Fragment, useState, useEffect } from 'react';
 // import { useSelector } from 'react-redux';
-import {ReactComponent as Logo} from "../../assets/images/logo/logo-zamzam.svg";
+import logo from "../../assets/images/logo/logo.png";
 // import logo from '../../assets/images/logo/logo-zamzam.svg';
 import logo_compact from '../../assets/images/logo/compact-logo.png';
-import UserPanel from './userPanel';
 import { MENUITEMS } from './menu';
 import { Link } from 'react-router-dom';
 // import configDB from '../../data/customizer/config';
@@ -193,8 +192,7 @@ const Sidebar = (props) => {
                     <div className="logo-wrapper compactLogo">
                         <Link onClick={e => e.preventDefault()} to={`${process.env.PUBLIC_URL}/`}>
                             <img className="blur-up lazyloaded" src={logo_compact} alt="" />
-                            <Logo />
-                            {/*<img className="blur-up lazyloaded" src={logo} alt="" />*/}
+                            {<img className="blur-up lazyloaded" style={{width: 150}} src={logo} alt="" />}
                         </Link>
                     </div>
                 </div>

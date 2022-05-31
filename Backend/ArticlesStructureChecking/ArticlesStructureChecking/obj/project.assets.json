@@ -3618,11 +3618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking\\ArticlesStructureChecking.csproj",
+      "projectUniqueName": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking\\ArticlesStructureChecking.csproj",
       "projectName": "ArticlesStructureChecking",
-      "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking\\ArticlesStructureChecking.csproj",
+      "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking\\ArticlesStructureChecking.csproj",
       "packagesPath": "C:\\Users\\Айдар\\.nuget\\packages\\",
-      "outputPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking\\obj\\",
+      "outputPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3643,17 +3643,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Article\\ArticlesStructureChecking.Application.Article.csproj": {
-              "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Article\\ArticlesStructureChecking.Application.Article.csproj"
+            "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Article\\ArticlesStructureChecking.Application.Article.csproj": {
+              "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Article\\ArticlesStructureChecking.Application.Article.csproj"
             },
-            "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj": {
-              "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj"
+            "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj": {
+              "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Core\\ArticlesStructureChecking.Application.Core.csproj"
             },
-            "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj": {
-              "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj"
+            "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj": {
+              "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj"
             },
-            "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\ArticlesStructureChecking.Infrastructure.DataAccess.csproj": {
-              "projectPath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\ArticlesStructureChecking.Infrastructure.DataAccess.csproj"
+            "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\ArticlesStructureChecking.Infrastructure.DataAccess.csproj": {
+              "projectPath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Infrastructure.DataAccess\\ArticlesStructureChecking.Infrastructure.DataAccess.csproj"
             }
           }
         }

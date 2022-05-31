@@ -11,6 +11,6 @@ namespace ArticlesStructureChecking.Application.Article.GetArticleReviewsByArtic
     {
         public int Id { get; set; }
         public EArticleStatus Status { get; set; }
-        public DateTime CreatedAt { get; set; }
+        public string CreatedAt { get; set; }
     }
 }

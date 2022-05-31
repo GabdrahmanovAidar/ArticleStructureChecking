@@ -10,7 +10,7 @@ import {
     // Maximize, Bell, MessageCircle, MoreHorizontal
 } from 'react-feather';
 // import {EN} from '../constant'
-import {ReactComponent as Logo} from "../../assets/images/logo/logo-zamzam.svg";
+import logo from "../../assets/images/logo/logo.png";
 import UserMenu from "./userMenu";
 
 const Header = () => {
@@ -105,8 +105,7 @@ const Header = () => {
                     <div className="main-header-left d-lg-none">
                         <div className="logo-wrapper">
                             <Link to={`${process.env.PUBLIC_URL}/`}>
-                                <Logo/>
-                                {/*<img className="img-fluid" src={logo} alt="" />*/}
+                                {<img className="img-fluid" style={{width: 150}} src={logo} alt="" />}
                             </Link>
                         </div>
                     </div>

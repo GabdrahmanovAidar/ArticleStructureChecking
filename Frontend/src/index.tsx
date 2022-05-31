@@ -13,6 +13,8 @@ import 'react-toastify/dist/ReactToastify.css';
 import ProtectedRoute from './components/helpers/protectedRout';
 import Artilces from './components/menu-pages/articles';
 import ArticleCreate from './components/menu-pages/articles/articleCreate';
+import ArtilceReviews from './components/menu-pages/articleReviews';
+import ArticleReviewCheck from './components/menu-pages/articleReviews/check';
 
 let store = configureStore();
 const client = new ApolloClient({
@@ -49,6 +51,21 @@ const Root = () => {
                                 <Route exact path={`/article/create`}>
                                     <ProtectedRoute allowedRoles={[]}>
                                         <ArticleCreate />
+                                    </ProtectedRoute>
+                                </Route>
+                                <Route exact path={`/articleReviews/:id`}>
+                                    <ProtectedRoute allowedRoles={[]}>
+                                        <ArtilceReviews />
+                                    </ProtectedRoute>
+                                </Route>
+                                <Route exact path={`/articleReview/check`}>
+                                    <ProtectedRoute allowedRoles={[]}>
+                                        <ArticleReviewCheck />
+                                    </ProtectedRoute>
+                                </Route>
+                                <Route exact path={`/articleReview/check/:id`}>
+                                    <ProtectedRoute allowedRoles={[]}>
+                                        <ArticleReviewCheck />
                                     </ProtectedRoute>
                                 </Route>
                             </App>

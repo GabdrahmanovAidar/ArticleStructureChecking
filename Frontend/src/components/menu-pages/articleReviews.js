@@ -10,39 +10,44 @@ import Loader from "../loader";
 import { useHistory } from 'react-router-dom';
 import axios from "axios";
 import { toast } from "react-toastify";
-import { articlesColumn } from '../../helpers/tableColumns';
+import { articleReviewsColumn, articlesColumn } from '../../helpers/tableColumns';
 import { articleService } from '../../services/articleService';
 import { getArticleStatusColor, getArticleStatusText } from '../../helpers/statuses';
+import { articleReviewService } from '../../services/articleReviewService';
+import { useParams } from "react-router";
 
 const ArtilceReviews = () => {
     let dataTable = [];
     const [offset, setOffset] = useState(1);
     const [datas, setData] = useState([]);
     const [isCreate, setIsCreate] = useState(false);
-
+    const { id } = useParams();
     const onLoadData = async () => {
-        await articleService.getList().then((data) => {
-            if (data) {
-                setData(data);
-            }
-        });
+        if (id) {
+            localStorage.removeItem("articleId");
+            localStorage.setItem("articleId", id);
+            await articleReviewService.getByArticleId(id).then((data) => {
+                if (data) {
+                    setData(data);
+                }
+            });
+        }
     }
     useEffect(async () => {
         await onLoadData();
     }, [])
 
     const onCreate = () => {
-        window.location.href = `${process.env.PUBLIC_URL}/articleReview/create`;
+        window.location.href = `${process.env.PUBLIC_URL}/articleReview/check`;
     }
 
     if (datas.length != 0) {
         datas.forEach(article => {
             const obj = {
-                id: <Link to={"/article/edit/" + article.id}>{article.id}</Link>,
-                name: article.name ? article.name : "-",
-                checkCount: article.checkCount,
+                id: <Link to={"/articleReview/check/" + article.id}>{article.id}</Link>,
                 status: <div className="flex"><span
-                    className={`badge badge-pill badge-${getArticleStatusColor(article.status)}`}>{getArticleStatusText(article.status)}</span></div>
+                    className={`badge badge-pill badge-${getArticleStatusColor(article.status)}`}>{getArticleStatusText(article.status)}</span></div>,
+                createdAt: article.createdAt
             }
             dataTable = [...dataTable, obj];
         })
@@ -52,7 +57,7 @@ const ArtilceReviews = () => {
         <Fragment>
 
             <div className="container-fluid">
-                <Breadcrumb parent="Home" title="Документы" />
+                <Breadcrumb parent="Home" title={"Проверки документа " + id} />
                 <div className="form-group text-right">
                     <button className="btn btn-primary" onClick={event => onCreate()} type="submit">Добавить</button>
                 </div>
@@ -60,7 +65,7 @@ const ArtilceReviews = () => {
 
             <div className="container-fluid">
                 <div >
-                    <DataTableComponent data={dataTable} columns={articlesColumn} />
+                    <DataTableComponent data={dataTable} columns={articleReviewsColumn} />
                 </div>
             </div>
         </Fragment>

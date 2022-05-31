@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "77RJb52n/wYMXoOAdb3IpgrlOEPsZbh5Kq62N2YTFqW61rxuE6N+l8mzfwgJI1JC6PB9rowKsU0eICNat95CTA==",
+  "dgSpecHash": "WY2/qJVvFZuxWIzTQeopdPybgKjWeeFDNvv/qjZeysDJ9eF/TsU5nMziNNCH0CQfu7wSPF6RcAy1WvCwtmIZ/w==",
   "success": true,
-  "projectFilePath": "D:\\Рабочий стол\\Диплом\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj",
+  "projectFilePath": "D:\\Diplom\\Backend\\ArticlesStructureChecking\\ArticlesStructureChecking.Application.Token\\ArticlesStructureChecking.Application.Token.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

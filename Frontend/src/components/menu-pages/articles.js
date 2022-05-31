@@ -38,7 +38,7 @@ const Artilces = () => {
     if (datas.length != 0) {
         datas.forEach(article => {
             const obj = {
-                id: <Link to={"/article/edit/" + article.id}>{article.id}</Link>,
+                id: <Link to={"/articleReviews/" + article.id}>{article.id}</Link>,
                 name: article.name ? article.name : "-",
                 checkCount: article.checkCount,
                 status: <div className="flex"><span

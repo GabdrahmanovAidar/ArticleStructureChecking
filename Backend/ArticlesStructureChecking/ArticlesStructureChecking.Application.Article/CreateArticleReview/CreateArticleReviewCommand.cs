@@ -11,6 +11,6 @@ namespace ArticlesStructureChecking.Application.Article.CreateArticleReview
     public class CreateArticleReviewCommand : IRequest<Unit>
     {
         public int ArticleId { get; set; }
-        public IFormFile File { get; set; }
+        public IFormFile FormFile { get; set; }
     }
 }

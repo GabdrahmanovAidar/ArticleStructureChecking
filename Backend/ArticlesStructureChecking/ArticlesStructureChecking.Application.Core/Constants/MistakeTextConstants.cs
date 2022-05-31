@@ -56,7 +56,7 @@ namespace ArticlesStructureChecking.Application.Core.Constants
 
         public const string BibliographyBoldErr = "Неверный шрифт списка литературы. Требуется: Bold";
         public const string BibliographyFontErr = "Неверный шрифт списка литературы. Требуется: Calibri.";
-        public const string BibliographyItalicErr = "Неверный шрифт списка литературы. Требуется: italic";
+        public const string BibliographyItalicErr = "Неверный шрифт списка литературы. Требуется: Не italic";
         public const string BibliographyTextSizeErr = "Неверный размер шрифта списка литературы. Требуется: 14pt";
     }
 }
